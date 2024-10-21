@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.json": "json",
+        "process.h": "c",
+        "windows.h": "c",
+        "ws2tcpip.h": "c",
+        "stdio.h": "c",
+        "winsock2.h": "c"
+    },
+    "terminal.integrated.env.windows": {
+        "LANG": "ko_KR.UTF-8"
+    }
+}
